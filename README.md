@@ -1,0 +1,1 @@
+Верстаем кейс с резиновой вёрсткой и переключением тем (светлая/тёмная) "Карты подскажут" на основе <a href="https://www.figma.com/file/XFnibf2SfG9bhIzOrlUQdN/%235-Карты-подскажут-(Copy)?type=design&node-id=0-1&mode=design&t=7rjcamAOJWaH9ZZw-0" target="_blank">готового макета</a>
